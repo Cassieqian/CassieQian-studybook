@@ -72,3 +72,8 @@ space to write and remeber
 . 2022.02.19--[掘金](https://juejin.cn/post/7066429037207355399/)
 ### [路飞]_js算法：leetcode 110. 平衡二叉树
 . 2022.02.19--[掘金](https://juejin.cn/post/7066437099234263076/)
+### [路飞]_js算法：leetcode 剑指 Offer 40-最小的k个数
+. 2022.02.22--[掘金](https://juejin.cn/post/7067526929762484255/)
+### [路飞]_js算法：leetcode 703-数据流中的第 K 大元素 
+. 2022.02.22--[掘金](https://juejin.cn/post/7067527965608771591/)
+
