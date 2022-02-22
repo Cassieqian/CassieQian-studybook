@@ -76,4 +76,8 @@ space to write and remeber
 . 2022.02.22--[掘金](https://juejin.cn/post/7067526929762484255/)
 ### [路飞]_js算法：leetcode 703-数据流中的第 K 大元素 
 . 2022.02.22--[掘金](https://juejin.cn/post/7067527965608771591/)
+### [路飞]_js算法：leetcode1046-最后一块石头的重量
+. 2022.02.22--[掘金](https://juejin.cn/post/7067529382339805191)
+### [路飞]_js算法：leetcode 373-查找和最小的 K 对数字
+. 2022.02.22--[掘金](https://juejin.cn/post/7067534358600482847)
 
