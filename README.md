@@ -96,4 +96,6 @@ space to write and remeber
 . 2022.03.06--[掘金](https://juejin.cn/post/7072005884997533726/)
 ### [路飞]_js算法：leetcode 313-超级丑数
 . 2022.03.06--[掘金](https://juejin.cn/post/7072005602200780836/)
+### [路飞]_js算法：leetcode 1801-积压订单中的订单总数
+. 2022.03.06--[掘金](https://juejin.cn/post/7072017466309738510/)
 
