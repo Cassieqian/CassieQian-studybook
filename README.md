@@ -124,5 +124,9 @@ space to write and remeber
 . 2022.03.14--[掘金](https://juejin.cn/post/7074951081314222117/)
 ### [路飞]_js算法：leetcode 684-冗余连接
 . 2022.03.14--[掘金](https://juejin.cn/post/7074951715513958413/)
+### [路飞]_js算法：leetcode 1319-连通网络的操作次数
+. 2022.03.14--[掘金](https://juejin.cn/post/7074952960387579935/)
+### [路飞]_js算法：leetcode 128-最长连续序列
+. 2022.03.14--[掘金](https://juejin.cn/post/7074955138670002183/)
 
 
