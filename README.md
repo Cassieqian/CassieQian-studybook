@@ -120,5 +120,9 @@ space to write and remeber
 . 2022.03.14--[掘金](https://juejin.cn/post/7074948373962784804/)
 ### [路飞]_js算法：leetcode 200-岛屿数量
 . 2022.03.14--[掘金](https://juejin.cn/post/7074949976744263711/)
+### [路飞]_js算法：leetcode 990-等式方程的可满足性
+. 2022.03.14--[掘金](https://juejin.cn/post/7074951081314222117/)
+### [路飞]_js算法：leetcode 684-冗余连接
+. 2022.03.14--[掘金](https://juejin.cn/post/7074951715513958413/)
 
 
