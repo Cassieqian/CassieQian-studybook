@@ -116,5 +116,9 @@ space to write and remeber
 . 2022.03.09--[掘金](https://juejin.cn/post/7073124105205055496/)
 ### [路飞]_js算法：leetcode 973-最接近原点的 K 个点
 . 2022.03.09--[掘金](https://juejin.cn/post/7073125030992969741/)
+### [路飞]_js算法：leetcode 547-省份数量
+. 2022.03.14--[掘金](https://juejin.cn/post/7074948373962784804/)
+### [路飞]_js算法：leetcode 200-岛屿数量
+. 2022.03.14--[掘金](https://juejin.cn/post/7074949976744263711/)
 
 
