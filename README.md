@@ -128,5 +128,9 @@ space to write and remeber
 . 2022.03.14--[掘金](https://juejin.cn/post/7074952960387579935/)
 ### [路飞]_js算法：leetcode 128-最长连续序列
 . 2022.03.14--[掘金](https://juejin.cn/post/7074955138670002183/)
+### [路飞]_js算法：leetcode 947-移除最多的同行或同列石头 
+. 2022.03.23--[掘金](https://juejin.cn/post/7078277075785744397/)
+### [路飞]_js算法：leetcode 1202-交换字符串中的元素
+. 2022.03.23--[掘金](https://juejin.cn/post/7078277791715688479/)
 
 
