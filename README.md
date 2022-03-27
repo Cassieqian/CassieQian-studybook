@@ -136,6 +136,8 @@ space to write and remeber
 . 2022.03.26--[掘金](https://juejin.cn/post/7079384302290468895/)
 ### [路飞]_js算法：leetcode 765-情侣牵手
 . 2022.03.27--[掘金](https://juejin.cn/post/7079679955247824910/)
+### [路飞]_js算法：leetcode 394-字符串解码
+. 2022.03.27--[掘金](https://juejin.cn/post/7079784187746058271/)
 
 
 
