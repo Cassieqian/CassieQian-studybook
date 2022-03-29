@@ -138,6 +138,10 @@ space to write and remeber
 . 2022.03.27--[掘金](https://juejin.cn/post/7079679955247824910/)
 ### [路飞]_js算法：leetcode 394-字符串解码
 . 2022.03.27--[掘金](https://juejin.cn/post/7079784187746058271/)
+### [路飞]_js算法：leetcode 11-盛最多水的容器
+. 2022.03.29--[掘金](https://juejin.cn/post/7080541889971093512/)
+### [路飞]_js算法：leetcode 239-滑动窗口最大值
+. 2022.03.29--[掘金](https://juejin.cn/post/7080542395812544526/)
 
 
 
