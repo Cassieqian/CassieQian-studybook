@@ -142,6 +142,10 @@ space to write and remeber
 . 2022.03.29--[掘金](https://juejin.cn/post/7080541889971093512/)
 ### [路飞]_js算法：leetcode 239-滑动窗口最大值
 . 2022.03.29--[掘金](https://juejin.cn/post/7080542395812544526/)
+### [路飞]_js算法：leetcode 470-用 Rand7() 实现 Rand10() 
+. 2022.03.29--[掘金](https://juejin.cn/post/7080543103509069838/)
+### [路飞]_js算法：leetcode 95-不同的二叉搜索树 II
+. 2022.03.29--[掘金](https://juejin.cn/post/7080543401921216519/)
 
 
 
