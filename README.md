@@ -158,6 +158,10 @@ space to write and remeber
 . 2022.04.06--[掘金](https://juejin.cn/post/7083364552858927134/)
 ### [路飞]_js算法：leetcode 1305-两棵二叉搜索树中的所有元素
 . 2022.04.06--[掘金](https://juejin.cn/post/7083365835670028325/)
+### [路飞]_js算法：leetcode 148. 排序链表
+. 2022.04.06--[掘金](https://juejin.cn/post/7083367726927839269/)
+### [路飞]_js算法：leetcode 23-合并K个升序链表
+. 2022.04.06--[掘金](https://juejin.cn/post/7083368076267225095/)
 
 
 
