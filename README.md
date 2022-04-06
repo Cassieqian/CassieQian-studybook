@@ -148,6 +148,10 @@ space to write and remeber
 . 2022.03.29--[掘金](https://juejin.cn/post/7080543401921216519/)
 ### [路飞]_js算法：leetcode 75-颜色分类
 . 2022.04.06--[掘金](https://juejin.cn/post/7083359405730693151/)
+### [路飞]_js算法：leetcode 面试题 17.14-最小K个数
+. 2022.04.06--[掘金](https://juejin.cn/post/7083359999400869919/)
+### [路飞]_js算法：leetcode 912. 排序数组-快速排序（指针）
+. 2022.04.06--[掘金](https://juejin.cn/post/7083362974047404068/)
 
 
 
