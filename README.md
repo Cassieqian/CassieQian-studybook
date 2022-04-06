@@ -154,6 +154,11 @@ space to write and remeber
 . 2022.04.06--[掘金](https://juejin.cn/post/7083362974047404068/)
 ### [路飞]_js算法：leetcode 剑指 Offer 21-调整数组顺序使奇数位于偶数前面
 . 2022.04.06--[掘金](https://juejin.cn/post/7083363003642413064/)
+### [路飞]_js算法：leetcode 剑指 Offer 51-数组中的逆序对
+. 2022.04.06--[掘金](https://juejin.cn/post/7083364552858927134/)
+### [路飞]_js算法：leetcode 1305-两棵二叉搜索树中的所有元素
+. 2022.04.06--[掘金](https://juejin.cn/post/7083365835670028325/)
+
 
 
 
