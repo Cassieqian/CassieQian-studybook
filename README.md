@@ -162,6 +162,10 @@ space to write and remeber
 . 2022.04.06--[掘金](https://juejin.cn/post/7083367726927839269/)
 ### [路飞]_js算法：leetcode 23-合并K个升序链表
 . 2022.04.06--[掘金](https://juejin.cn/post/7083368076267225095/)
+### [路飞]_js算法：leetcode 面试题 04.08-首个共同祖先
+. 2022.04.07--[掘金](https://juejin.cn/post/7083792336090005511/)
+### [路飞]_js算法：leetcode 327-区间和的个数
+. 2022.04.07--[掘金](https://juejin.cn/post/7083793630430756872/)
 
 
 
