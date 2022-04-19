@@ -180,6 +180,8 @@ space to write and remeber
 . 2022.04.19--[掘金](https://juejin.cn/post/7088196909575176228/)
 ### [路飞]_js算法：leetcode 491-递增子序列
 . 2022.04.19--[掘金](https://juejin.cn/post/7088201124649385992/)
+### [路飞]_js算法：leetcode 面试题 04.12-求和路径
+. 2022.04.19--[掘金](https://juejin.cn/post/7088204708737155102/)
 
 
 
