@@ -173,8 +173,9 @@ space to write and remeber
 ### [路飞]_js算法：leetcode 53-最大子数组和
 . 2022.04.07--[掘金](https://juejin.cn/post/7083795733660319752/)
 ### [路飞]_js算法：leetcode 315-计算右侧小于当前元素的个数
-. 2022.04.019--[掘金](https://juejin.cn/post/7088146993754669070/)
-
+. 2022.04.19--[掘金](https://juejin.cn/post/7088146993754669070/)
+### [路飞]_js算法：leetcode 56-合并区间
+. 2022.04.19--[掘金](https://juejin.cn/post/7088195124286455821/)
 
 
 
