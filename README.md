@@ -178,6 +178,8 @@ space to write and remeber
 . 2022.04.19--[掘金](https://juejin.cn/post/7088195124286455821/)
 ### [路飞]_js算法：leetcode 1288-删除被覆盖区间
 . 2022.04.19--[掘金](https://juejin.cn/post/7088196909575176228/)
+### [路飞]_js算法：leetcode 491-递增子序列
+. 2022.04.19--[掘金](https://juejin.cn/post/7088201124649385992/)
 
 
 
