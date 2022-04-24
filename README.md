@@ -182,6 +182,8 @@ space to write and remeber
 . 2022.04.19--[掘金](https://juejin.cn/post/7088201124649385992/)
 ### [路飞]_js算法：leetcode 面试题 04.12-求和路径
 . 2022.04.19--[掘金](https://juejin.cn/post/7088204708737155102/)
+### [路飞]_js算法：leetcode 274-H 指数
+. 2022.04.24--[掘金](https://juejin.cn/post/7090104347580694541/)
 
 
 
