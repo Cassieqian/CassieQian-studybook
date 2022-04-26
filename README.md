@@ -184,6 +184,14 @@ space to write and remeber
 . 2022.04.19--[掘金](https://juejin.cn/post/7088204708737155102/)
 ### [路飞]_js算法：leetcode 274-H 指数
 . 2022.04.24--[掘金](https://juejin.cn/post/7090104347580694541/)
+### [路飞]_js算法：leetcode 207-课程表
+. 2022.04.26--[掘金](https://juejin.cn/post/7090786744190107685/)
+### [路飞]_js算法：leetcode 210-课程表 II
+. 2022.04.26--[掘金](https://juejin.cn/post/7090787775506546724/)
+### [路飞]_js算法：leetcode 1122-数组的相对排序
+. 2022.04.26--[掘金](https://juejin.cn/post/7090788349224419335/)
+### [路飞]_js算法：leetcode 164-最大间距
+. 2022.04.26--[掘金](https://juejin.cn/post/7090789056199524366/)
 
 
 
