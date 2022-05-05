@@ -198,6 +198,8 @@ space to write and remeber
 . 2022.05.05--[掘金](https://juejin.cn/post/7094162147369811976/)
 ### [路飞]_js算法：leetcode 179-最大数
 . 2022.05.05--[掘金](https://juejin.cn/post/7094165527534239780/)
+### [路飞]_js算法：leetcode 1647-字符频次唯一的最小删除次数
+. 2022.05.05--[掘金](https://juejin.cn/post/7094168516105863204/)
 
 
 
