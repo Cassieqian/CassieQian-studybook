@@ -212,6 +212,8 @@ space to write and remeber
 . 2022.05.05--[掘金](https://juejin.cn/post/7094178739268878372/)
 ### [路飞]_js算法：leetcode 475-供暖器
 . 2022.05.05--[掘金](https://juejin.cn/post/7094179711521128484/)
+### [路飞]_js算法：leetcode 1-两数之和
+. 2022.05.05--[掘金](https://juejin.cn/post/7094180456836366343/)
 
 
 
