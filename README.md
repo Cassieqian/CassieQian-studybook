@@ -196,6 +196,8 @@ space to write and remeber
 . 2022.05.04--[掘金](https://juejin.cn/post/7093895658272194568/)
 ### [路飞]_js算法：leetcode 687-最长同值路径
 . 2022.05.05--[掘金](https://juejin.cn/post/7094162147369811976/)
+### [路飞]_js算法：leetcode 179-最大数
+. 2022.05.05--[掘金](https://juejin.cn/post/7094165527534239780/)
 
 
 
