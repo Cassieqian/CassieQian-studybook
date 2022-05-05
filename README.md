@@ -194,6 +194,8 @@ space to write and remeber
 . 2022.04.26--[掘金](https://juejin.cn/post/7090789056199524366/)
 ### [路飞]_js算法：leetcode 763-划分字母区间
 . 2022.05.04--[掘金](https://juejin.cn/post/7093895658272194568/)
+### [路飞]_js算法：leetcode 687-最长同值路径
+. 2022.05.05--[掘金](https://juejin.cn/post/7094162147369811976/)
 
 
 
