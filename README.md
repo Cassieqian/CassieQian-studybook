@@ -208,6 +208,8 @@ space to write and remeber
 . 2022.05.05--[掘金](https://juejin.cn/post/7094175401282371591)
 ### [路飞]_js算法：leetcode 69-x 的平方根
 . 2022.05.05--[掘金](https://juejin.cn/post/7094177613219889159/)
+### [路飞]_js算法：leetcode 35-搜索插入位置
+. 2022.05.05--[掘金](https://juejin.cn/post/7094178739268878372/)
 
 
 
