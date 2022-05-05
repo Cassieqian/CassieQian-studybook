@@ -214,6 +214,8 @@ space to write and remeber
 . 2022.05.05--[掘金](https://juejin.cn/post/7094179711521128484/)
 ### [路飞]_js算法：leetcode 1-两数之和
 . 2022.05.05--[掘金](https://juejin.cn/post/7094180456836366343/)
+### [路飞]_js算法：leetcode 34-在排序数组中查找元素的第一个和最后一个位置
+. 2022.05.05--[掘金](https://juejin.cn/post/7094181352639037470/)
 
 
 
