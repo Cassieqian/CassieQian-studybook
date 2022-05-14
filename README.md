@@ -228,5 +228,8 @@ space to write and remeber
 . 2022.05.15--[掘金](https://juejin.cn/post/7097643147391401992/)
 ### [路飞]_js算法：leetcode 1011-在 D 天内送达包裹的能力
 . 2022.05.15--[掘金](https://juejin.cn/post/7097646518353526814/)
+### [路飞]_js算法：leetcode 318-最大单词长度乘积
+. 2022.05.15--[掘金](https://juejin.cn/post/7097649094482460686/)
+
 
 
