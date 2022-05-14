@@ -224,5 +224,7 @@ space to write and remeber
 . 2022.05.14--[掘金](https://juejin.cn/post/7097617352732180488/)
 ### [路飞]_js算法：leetcode 4-寻找两个正序数组的中位数
 . 2022.05.15--[掘金](https://juejin.cn/post/7097623117790937119/)
+### [路飞]_js算法：leetcode 300-最长递增子序列
+. 2022.05.15--[掘金](https://juejin.cn/post/7097643147391401992/)
 
 
