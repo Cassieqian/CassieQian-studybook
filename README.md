@@ -220,5 +220,7 @@ space to write and remeber
 . 2022.05.05--[掘金](https://juejin.cn/post/7094182401324597285/)
 ### leetcode 81. 搜索旋转排序数组 II
 . 2022.05.05--[掘金](https://juejin.cn/post/7094183141937512479/)
+### [路飞]_js算法：面试题 16.16-部分排序
+. 2022.05.14--[掘金](https://juejin.cn/post/7097617352732180488/)
 
 
