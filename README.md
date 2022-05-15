@@ -230,6 +230,11 @@ space to write and remeber
 . 2022.05.15--[掘金](https://juejin.cn/post/7097646518353526814/)
 ### [路飞]_js算法：leetcode 318-最大单词长度乘积
 . 2022.05.15--[掘金](https://juejin.cn/post/7097649094482460686/)
-
+### [路飞]_js算法：leetcode 979-在二叉树中分配硬币
+. 2022.05.15--[掘金](https://juejin.cn/post/7097821902596472862/)
+### [路飞]_js算法：leetcode 240-搜索二维矩阵 II 
+. 2022.05.15--[掘金](https://juejin.cn/post/7097823319109402632/)
+### [路飞]_js算法：leetcode 430-扁平化多级双向链表
+. 2022.05.15--[掘金](https://juejin.cn/post/7097832821456109604/)
 
 
