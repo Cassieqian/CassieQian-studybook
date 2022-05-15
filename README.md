@@ -236,5 +236,13 @@ space to write and remeber
 . 2022.05.15--[掘金](https://juejin.cn/post/7097823319109402632/)
 ### [路飞]_js算法：leetcode 430-扁平化多级双向链表
 . 2022.05.15--[掘金](https://juejin.cn/post/7097832821456109604/)
+### [路飞]_js算法：leetcode 705-设计哈希集合
+. 2022.05.15--[掘金](https://juejin.cn/post/7097861289052995591/)
+### [路飞]_js算法：leetcode 706-设计哈希映射
+. 2022.05.15--[掘金](https://juejin.cn/post/7097862990275280926/)
+### [路飞]_js算法：leetcode 535-TinyURL 的加密与解密
+. 2022.05.15--[掘金](https://juejin.cn/post/7097866174909644808/)
+### [路飞]_js算法：leetcode 187-重复的DNA序列
+. 2022.05.15--[掘金](https://juejin.cn/post/7097867103205589005/)
 
 
