@@ -244,5 +244,15 @@ space to write and remeber
 . 2022.05.15--[掘金](https://juejin.cn/post/7097866174909644808/)
 ### [路飞]_js算法：leetcode 187-重复的DNA序列
 . 2022.05.15--[掘金](https://juejin.cn/post/7097867103205589005/)
+### [路飞]_js算法：leetcode 面试题 16.25-LRU 缓存
+. 2022.05.15--[掘金](https://juejin.cn/post/7097869614268284958/)
+### [路飞]_js算法：leetcode 993-二叉树的堂兄弟节点
+. 2022.05.15--[掘金](https://juejin.cn/post/7097874775296442375/)
+### [路飞]_js算法：leetcode 542-01 矩阵
+. 2022.05.15--[掘金](https://juejin.cn/post/7097876915129679902/)
+### [路飞]_js算法：leetcode 109-二进制矩阵中的最短路径
+. 2022.05.15--[掘金](https://juejin.cn/post/7097878011826929694/)
+### [路飞]_js算法：leetcode 剑指 Offer 13-机器人的运动范围
+. 2022.05.15--[掘金](https://juejin.cn/post/7097879022310260750/)
 
 
