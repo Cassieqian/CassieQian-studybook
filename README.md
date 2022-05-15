@@ -254,5 +254,7 @@ space to write and remeber
 . 2022.05.15--[掘金](https://juejin.cn/post/7097878011826929694/)
 ### [路飞]_js算法：leetcode 剑指 Offer 13-机器人的运动范围
 . 2022.05.15--[掘金](https://juejin.cn/post/7097879022310260750/)
+### [路飞]_js算法：leetcode 752-打开转盘锁
+. 2022.05.15--[掘金](https://juejin.cn/post/7097887423832522759/)
 
 
